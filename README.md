@@ -13,13 +13,13 @@ Quick and easy to use tool to organize Your Folders, such as (Downloads,Document
 
 ![Screenshot 2021-05-17 142925](https://user-images.githubusercontent.com/45932502/118481882-adeeae80-b71c-11eb-9735-08d5f1ed743a.png)
 
-#####################################
+
 
 
 
 # Usage 
 ```diff
-
++ this tool is safe to use, but you might run into Windows defender problem or any other Anti-virus software, since this is program is not signed
 - Warning!!! this tool will delete all dublicated files in the selected Directory to optimize storage 
 ```
 
